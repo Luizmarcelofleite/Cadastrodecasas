@@ -1,9 +1,9 @@
 Seleção de famílias aptas a ganharem uma casa popular
 
-//----------------------------------------------------------------------------------//
+//-------------------------------------------------------------------------------------------------------------------------//
 
 
- Projeto que cadastra as familias de acordo com a renda familiar e a quantidade de membros, gerando pontos. Assim passando essas informações e gerando uma lista de familias aptas. É possível cadastar as familias fornecendo as seguintes informações:
+ Projeto que cadastra as famílias de acordo com a renda famíliar e a quantidade de membros, gerando pontos. Assim passando essas informações e gerando uma lista de familias aptas. É possível cadastrar as famílias fornecendo as seguintes informações:
  
  *nome
  *idade
@@ -13,7 +13,7 @@ Seleção de famílias aptas a ganharem uma casa popular
  *nome dos membros familiares
  *idade dos memros familiares
 
-  É gerado um id para cada familia. A consulta no banco de dados pode ser feita através do nome.
+  É gerado um id para cada família. A consulta no banco de dados pode ser feita através do nome.
  
 
 
